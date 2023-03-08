@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "inAmount": "3000000000",
+      "outAmount": "1052553296",
+      "priceImpactPct": 0.14785615433189625,
+      "marketInfos": [
+        {
+          "id": "EvWJC2mnmu9C9aQrsJLXw8FhUcwBzFEUQsP1E5Y6a5N7",
+          "label": "Raydium",
+          "inputMint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "outputMint": "So11111111111111111111111111111111111111112",
+          "notEnoughLiquidity": false,
+          "inAmount": "3000000000",
+          "outAmount": "37728582638",
+          "priceImpactPct": 0.07702368892921438,
+          "lpFee": {
+            "amount": "7500000",
+            "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "pct": 0.0025
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "So11111111111111111111111111111111111111112",
+            "pct": 0
+          }
+        },
+        {
+          "id": "3ne4mWqdYuNiYrYZC9TrA3FcfuFdErghH97vNPbjicr1",
+          "label": "Orca (Whirlpools)",
+          "inputMint": "So11111111111111111111111111111111111111112",
+          "outputMint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+          "notEnoughLiquidity": false,
+          "inAmount": "37728582638",
+          "outAmount": "183876270356478",
+          "priceImpactPct": 0.06965362309878444,
+          "lpFee": {
+            "amount": "113185752",
+            "mint": "So11111111111111111111111111111111111111112",
+            "pct": 0.003
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "pct": 0
+          }
+        },
+        {
+          "id": "8QaXeHBrShJTdtN1rWCccBxpSVvKksQ2PCu5nufb2zbk",
+          "label": "Orca (Whirlpools)",
+          "inputMint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+          "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "notEnoughLiquidity": false,
+          "inAmount": "183876270356478",
+          "outAmount": "1052553296",
+          "priceImpactPct": 0.007620723522604025,
+          "lpFee": {
+            "amount": "551628811072",
+            "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "pct": 0.003
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "pct": 0
+          }
+        }
+      ],
+      "amount": "3000000000",
+      "slippageBps": 50,
+      "otherAmountThreshold": "1047290530",
+      "swapMode": "ExactIn"
+    },
+    {
+      "inAmount": "3000000000",
+      "outAmount": "833236007",
+      "priceImpactPct": 0.00716144149664677,
+      "marketInfos": [
+        {
+          "id": "8tzS7SkUZyHPQY7gLqsMCXZ5EDCgjESUHcB17tiR1h3Z-7RM8pzbWmGEYJLFuyS5uDyrkd4phcazHppn1C7Qim5nT",
+          "label": "Raydium (90%) + Lifinity (10%)",
+          "inputMint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "notEnoughLiquidity": false,
+          "inAmount": "3000000000",
+          "outAmount": "833236007",
+          "priceImpactPct": 0.0071614414966467265,
+          "lpFee": {
+            "amount": "7110000",
+            "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "pct": 0.00237
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "pct": 0
+          }
+        }
+      ],
+      "amount": "3000000000",
+      "slippageBps": 50,
+      "otherAmountThreshold": "829069827",
+      "swapMode": "ExactIn"
+    },
+    {
+      "inAmount": "3000000000",
+      "outAmount": "832835324",
+      "priceImpactPct": 0.006115854429599055,
+      "marketInfos": [
+        {
+          "id": "GaqgfieVmnmY4ZsZHHA6L5RSVzCGL3sKx4UgHBaYNy8m",
+          "label": "Raydium",
+          "inputMint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+          "outputMint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+          "notEnoughLiquidity": false,
+          "inAmount": "3000000000",
+          "outAmount": "3318194223",
+          "priceImpactPct": 0.004980782145816661,
+          "lpFee": {
+            "amount": "7500000",
+            "mint": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "pct": 0.0025
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "pct": 0
+          }
+        },
+        {
+          "id": "DVa7Qmb5ct9RCpaU7UTpSaf3GVMYz17vNVU67XpdCRut",
+          "label": "Raydium",
+          "inputMint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+          "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "notEnoughLiquidity": false,
+          "inAmount": "3318194223",
+          "outAmount": "832821793",
+          "priceImpactPct": 0.0011376490200393087,
+          "lpFee": {
+            "amount": "8295485",
+            "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "pct": 0.0025
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "pct": 0
+          }
+        },
+        {
+          "id": "SWABtvDnJwWwAb9CbSA3nv7nTnrtYjrACAVtuP3gyBB",
+          "label": "Mercurial",
+          "inputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "notEnoughLiquidity": false,
+          "inAmount": "832821793",
+          "outAmount": "832835324",
+          "priceImpactPct": 0.00000310864810497646,
+          "lpFee": {
+            "amount": "8328",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "pct": 0.00001
+          },
+          "platformFee": {
+            "amount": "0",
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "pct": 0
+          }
+        }
+      ],
+      "amount": "3000000000",
+      "slippageBps": 50,
+      "otherAmountThreshold": "828671148",
+      "swapMode": "ExactIn"
+    }
+  ],
+  "timeTaken": 0.06995882399996844,
+  "contextSlot": 181289118
+}
